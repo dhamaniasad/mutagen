@@ -17,8 +17,8 @@ dependencies outside the Python standard library.
 Installing
 ----------
 
- $ ./setup.py build
- $ su -c "./setup.py install"
+| $ ./setup.py build
+| $ su -c "./setup.py install"
 
 
 Documentation
